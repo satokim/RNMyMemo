@@ -1,2 +1,0 @@
-insert test message "test"
-"test" or "test"
