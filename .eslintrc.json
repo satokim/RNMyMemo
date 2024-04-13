@@ -16,6 +16,7 @@
     ],
     "rules": {
         "react/react-in-jsx-scope": 0,
-        "@typescript-eslint/indent": "off"
+        "@typescript-eslint/indent": "off",
+        "no-trailing-spaces": "off"
     }
 }
